@@ -18,4 +18,4 @@ IPv4 addressing, subnet masks, default gateways, basic cabling, ICMP ping testin
 
 ## File
 
-- [Diffrent Network .pkt](../Diffrent%20Network%20.pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
+- [Diffrent Network .pkt](https://github.com/thro12/networking-learning/blob/main/Networking/CCNA%20Labs/Diffrent%20Network%20.pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
