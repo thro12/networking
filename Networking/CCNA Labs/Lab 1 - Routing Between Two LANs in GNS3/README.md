@@ -4,7 +4,7 @@ First lab in my daily networking lab series, built independently in GNS3 with 1 
 
 ## Topology
 
-![Lab topology: two LANs routed through R1 in GNS3](lab1-topology.jpg)
+![Lab topology: two LANs routed through R1 in GNS3](https://raw.githubusercontent.com/thro12/networking-learning/main/Networking/CCNA%20Labs/Lab%201%20-%20Routing%20Between%20Two%20LANs%20in%20GNS3/lab1-topology.jpg)
 
 - Left LAN: 10.0.0.0/8, gateway 10.0.0.1 on R1 f0/0. PC1: 10.0.0.2; PC2: 10.0.0.3.
 - Right LAN: 192.168.1.0/24, gateway 192.168.1.1 on R1 g1/0. PC3: 192.168.1.2; PC4: 192.168.1.3.
@@ -16,7 +16,7 @@ Same-LAN and cross-LAN connectivity from PC1 using ping. ARP resolves MAC addres
 
 ## Observed ping results from PC1
 
-![PC1 ping results (VPCS terminal)](lab1-ping-results.jpg)
+![PC1 ping results (VPCS terminal)](https://raw.githubusercontent.com/thro12/networking-learning/main/Networking/CCNA%20Labs/Lab%201%20-%20Routing%20Between%20Two%20LANs%20in%20GNS3/lab1-ping-results.jpg)
 
 - PC2: 5/5 replies, TTL 64.
 - Local gateway: first request timed out; next 4 replied, TTL 255.
