@@ -11,6 +11,6 @@ A campus-level network design built in Cisco Packet Tracer, following the hierar
 
 ## Files
 
-- [Project 1....pkt](./Project%201....pkt) - the Packet Tracer project file
+- [Project 1....pkt](https://github.com/thro12/networking-learning/blob/main/Networking/CCNA%20Labs/Campus%20Network%20Design/Project%201....pkt) - the Packet Tracer project file
 
 Detailed documentation (full addressing plan, configuration and test results) will be added.
