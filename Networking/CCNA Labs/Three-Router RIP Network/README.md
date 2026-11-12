@@ -27,4 +27,4 @@ Dynamic routing with RIP, IP addressing, route verification, connectivity testin
 
 ## File
 
-- [RIP....pkt](../RIP....pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
+- [RIP....pkt](https://github.com/thro12/networking-learning/blob/main/Networking/CCNA%20Labs/RIP....pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
