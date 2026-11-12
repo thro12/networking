@@ -24,4 +24,4 @@ OSPF single-area configuration, link-state routing basics, neighbour and route v
 
 ## File
 
-- [OSPF....pkt](../OSPF....pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
+- [OSPF....pkt](https://github.com/thro12/networking-learning/blob/main/Networking/CCNA%20Labs/OSPF....pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
