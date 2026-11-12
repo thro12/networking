@@ -24,4 +24,4 @@ EIGRP configuration, autonomous systems, dynamic route verification.
 
 ## File
 
-- [EIGRP.pkt](../EIGRP.pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
+- [EIGRP.pkt](https://github.com/thro12/networking-learning/blob/main/Networking/CCNA%20Labs/EIGRP.pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
