@@ -23,4 +23,4 @@ Static routing, serial point-to-point addressing, next-hop logic, connectivity t
 
 ## File
 
-- [Static Routing .pkt](../Static%20Routing%20.pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
+- [Static Routing .pkt](https://github.com/thro12/networking-learning/blob/main/Networking/CCNA%20Labs/Static%20Routing%20.pkt) - the Packet Tracer project file (kept in the parent CCNA Labs folder with its original name)
